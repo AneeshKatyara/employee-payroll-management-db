@@ -33,15 +33,17 @@ The schema enforces:
 ---
 
 ## Project Structure
-employee-payroll-management-db/
-├── sql/
-│   ├── schema.sql        # Table definitions and constraints
-│   ├── sample_data.sql  # Sample INSERT statements
-│   ├── views.sql        # Reporting views
-│   └── queries.sql      # Demonstration queries
-├── docs/                # Design documents (ERD, normalization, RA)
-├── screenshots/         # Query and output screenshots
-└── README.md
+
+**employee-payroll-management-db/**  
+&nbsp;&nbsp;**sql/**  
+&nbsp;&nbsp;&nbsp;&nbsp;• **schema.sql** – Table definitions and constraints  
+&nbsp;&nbsp;&nbsp;&nbsp;• **sample_data.sql** – Sample INSERT statements  
+&nbsp;&nbsp;&nbsp;&nbsp;• **views.sql** – Reporting views  
+&nbsp;&nbsp;&nbsp;&nbsp;• **queries.sql** – Demonstration queries  
+
+&nbsp;&nbsp;**docs/** – Design documents (ERD, normalization, RA)  
+&nbsp;&nbsp;**screenshots/** – Query and output screenshots  
+&nbsp;&nbsp;**README.md**
 
 ---
 
