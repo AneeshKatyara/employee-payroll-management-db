@@ -33,7 +33,6 @@ The schema enforces:
 ---
 
 ## Project Structure
-```text
 employee-payroll-management-db/
 ├── sql/
 │   ├── schema.sql        # Table definitions and constraints
